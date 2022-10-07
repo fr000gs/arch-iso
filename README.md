@@ -1,4 +1,8 @@
 # arch-iso
-This is an unofficial arch iso with xfce.
+
+Note: This image is not associated with the official Arch team in any way. This is a product of fr000gs only.
+
+This is an arch iso with xfce.
+
 
 Todo: Make a GUI arch installer
