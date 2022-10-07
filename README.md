@@ -1,2 +1,4 @@
 # arch-iso
-arch iso with xfce
+This is an unofficial arch iso with xfce.
+
+Todo: Make a GUI arch installer
