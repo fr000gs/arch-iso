@@ -1,6 +1,6 @@
 # arch-iso
 
-Note: This image is not associated with the official Arch team in any way. This is a product of fr000gs only.
+Note: This image is not a product of the official Arch team.
 
 This is an arch iso with xfce.
 
